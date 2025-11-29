@@ -2,9 +2,9 @@ This project demonstrates how to build a tool-using AI agent powered by Llama-2 
 
 Library	:
 
-transformers	- LLM inference pipeline
-langgraph	- Agent workflow graph and execution
-langchain_huggingface	- HuggingFace pipeline integration
-huggingface_hub	- Model authentication and access
-torch -	Model computing backend
+transformers	- LLM inference pipeline, 
+langgraph	- Agent workflow graph and execution, 
+langchain_huggingface	- HuggingFace pipeline integration, 
+huggingface_hub	- Model authentication and access, 
+torch -	Model computing backend, 
 typing - Structured agent state using TypedDict
